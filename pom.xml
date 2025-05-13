@@ -43,7 +43,7 @@
            <manifest>
 
 
-       <mainClass>com.mavenproject10.project10.App<mainClass>
+       <mainClass>package p10p.pp.App<mainClass>
 
        </manifest>
 
