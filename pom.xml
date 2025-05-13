@@ -43,7 +43,7 @@
            <manifest>
 
 
-       <mainClass>package p10p.pp.App<mainClass>
+       <mainClass>p10p.pp.App<mainClass>
 
        </manifest>
 
